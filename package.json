@@ -1,0 +1,11 @@
+{
+  "name": "articlesapp",
+  "version": "1.0.0",
+  "description": "An app to show, add and edit articles; to be created using node, express, mongo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Poonam Chetan Arya",
+  "license": "ISC"
+}
